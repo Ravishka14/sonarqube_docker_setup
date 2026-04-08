@@ -1,2 +1,2 @@
-# sonarqube_docker_setup
+# Sonarqube_docker_setup
 Automated Code Quality Environment with SonarQube &amp; Docker
